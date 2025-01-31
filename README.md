@@ -15,6 +15,7 @@ OpenWeather API for real-time weather data
 AsyncImage for image loading
 URLSession for network requests
 
-![WeatherApp Preview](https://github.com/mueed777/MyWeatherApp/blob/main/MyWeather/MainPage.PNG)
+### **App Preview**
+<img src="https://github.com/mueed777/MyWeatherApp/blob/main/MyWeather/MainPage.PNG" alt="WeatherApp Preview" width="400">
 
-![WeatherApp Preview](https://github.com/mueed777/MyWeatherApp/blob/main/MyWeather/WelcomePage.PNG)
+<img src="https://github.com/mueed777/MyWeatherApp/blob/main/MyWeather/WelcomePage.PNG" alt="WeatherApp Welcome Page" width="400">
