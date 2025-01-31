@@ -15,4 +15,4 @@ OpenWeather API for real-time weather data
 AsyncImage for image loading
 URLSession for network requests
 
-![WeatherApp Preview] (MyWeather/Assets/MainPage)
+![WeatherApp Preview] (MyWeather/Assets/MainPage.png)
