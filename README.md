@@ -16,7 +16,7 @@ AsyncImage for image loading
 URLSession for network requests
 
 ## **App Preview**
-<div style="display: flex; justify-content: center; gap: 30px;">
+<div style="display: flex; justify-content: center; gap: 200px;">
     <img src="https://github.com/mueed777/MyWeatherApp/blob/main/MyWeather/MainPage.PNG" alt="WeatherApp Preview" width="300">
     <img src="https://github.com/mueed777/MyWeatherApp/blob/main/MyWeather/WelcomePage.PNG" alt="WeatherApp Welcome Page" width="300">
 </div>
