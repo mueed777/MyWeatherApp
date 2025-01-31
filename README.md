@@ -9,7 +9,7 @@ Welcome to Weather App! This is a modern and lightweight weather application tha
 📱 Beautiful and responsive UI built with SwiftUI.
 🔗 Fetches live weather data using OpenWeather API.
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 Swift (SwiftUI)
 OpenWeather API for real-time weather data
 AsyncImage for image loading
